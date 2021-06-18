@@ -1,0 +1,134 @@
+body
+{
+    background-color: #eee !important;
+    text-align: center;
+    padding-top: 140px;
+}
+
+a
+{
+    margin: 0 20px;
+    text-decoration: none !important;
+    color: #000000 !important;
+    padding: 0;
+}
+
+.navbar
+{
+    background-color: #eee;
+    padding: 0 !important;
+}
+
+#header-img
+{
+    width: 300px;
+    margin: auto;
+}
+
+.features
+{
+    margin: 20px auto 100px auto;
+}
+
+#email
+{
+    margin: 20px auto;
+    width: 300px;
+    display: block;
+}
+
+.button
+{
+    background-color: #f1c40f;
+    border: none;
+    width: 170px;
+    height: 35px;
+    font-size: 22px;
+}
+
+.button:hover
+{
+    background-color: #ff8c00;
+}
+
+.facilities
+{
+    margin: auto;
+    padding: 20px;
+    max-width: 980px;
+}
+
+.iconAndDescription
+{
+    margin-bottom: 70px;
+}
+
+
+i
+{
+    padding-left: 0;
+    float: left;
+    color: darkorange;
+    width: 150px;
+    height: 100px;
+}
+
+.youtube
+{
+    max-width: 600px;
+    width: 90%;
+    margin: 0 auto 50px;
+    height: 350px;
+}
+
+.card-container
+{
+    padding: 50px 10% 50px;
+}
+
+.card
+{
+    background-color: #eee !important;
+    border: 1px solid black !important;
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+.card-body
+{
+    padding: 0 0 30px !important;
+}
+
+.card-title
+{
+    background-color: #ddd;
+    padding: 15px 0;
+    margin-bottom: 25px !important;
+}
+
+.btn
+{
+    background-color: #f1c40f !important;
+    border: none !important;
+    width: 100px;
+}
+
+.btn:hover
+{
+    background-color: #ff8c00 !important;
+}
+
+.footer
+{
+    background-color: #ddd;
+    display: block;
+    max-width: 1000px;
+    margin: auto;
+    text-align: right;
+    padding: 15px;
+}
+
+.copyright
+{
+    margin-bottom: 0;
+}
