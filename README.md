@@ -10,8 +10,6 @@ A few responsive web pages.
 1. Product Landing Page:
     <a href="https://codepen.io/GeraltOfRivia_/pen/ExWwzXM">Link</a>
     
-    <img src="https://github.com/Geralt-Of-Rivia-Witcher/Web-Pages/blob/master/Product%20Landing%20Page/Product%20Landing%20Page.PNG">
-    
 2. Survey Page:
     <a href="https://codepen.io/GeraltOfRivia_/pen/ZEeyZba">Link</a>
     
